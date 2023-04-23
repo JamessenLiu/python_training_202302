@@ -12,3 +12,6 @@
 
 
   https://developer.bigcommerce.com/api-reference/4f1da2936ed10-customers-v2
+  
+ * x-auth-token
+ ol999cchp7xq536507sq3pbjia3fi43
