@@ -15,4 +15,15 @@
   
  * x-auth-token
  
- ol999cchp7xq536507sq3pbjia3fi43
+   ol999cchp7xq536507sq3pbjia3fi43
+   
+
+* B3用户指南
+
+
+  https://help.bundleb2b.com/en/
+
+* B3 API文档
+
+
+  https://bundleb2b.stoplight.io/docs/openapi/ZG9jOjEwNTE4MDU0-bundle-b2-b-open-ap-is-quick-start
